@@ -7,4 +7,4 @@ class Solution:
             return tmp
         return head
 
-//  (https://leetcode.com/explore/featured/card/recursion-i/250/principle-of-recursion/1681)[https://leetcode.com/explore/featured/card/recursion-i/250/principle-of-recursion/1681]
+// [https://leetcode.com/explore/featured/card/recursion-i/250/principle-of-recursion/1681](https://leetcode.com/explore/featured/card/recursion-i/250/principle-of-recursion/1681)
